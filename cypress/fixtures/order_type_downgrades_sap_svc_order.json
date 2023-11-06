@@ -1,0 +1,7 @@
+{
+    "order_type": "Downgrades",
+    "payment_method": "SAP SVC Order",
+    "master_level_asset": "M1234",
+    "sap_svc_order_number": "4646546546",
+    "reason_for_downgrade":"reasonz down is"
+}

@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["es5", "dom"],
+      "types": ["cypress", "node", "cypress-xpath"],
+      "baseUrl": "https://fpasquer-dev.softco.service.honeywell.com"
+    },
+    "include": ["**/*.ts"]
+}

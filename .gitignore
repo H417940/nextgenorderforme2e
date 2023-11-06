@@ -1,0 +1,12 @@
+cucumber-report.json
+cucumber-results.json
+cucumber-results.json
+cucumber-messages.ndjson
+package-lock.json
+npm/
+node_modules/
+results/
+cypress/e2e/test.feature
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/

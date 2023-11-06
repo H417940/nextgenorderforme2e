@@ -1,0 +1,6 @@
+{
+    "order_type": "New",
+    "payment_method": "Non SAP Affiliate",
+    "master_level_asset": "M1234",
+    "purchase_order_number": "hello world"
+}
